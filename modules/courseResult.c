@@ -3,7 +3,10 @@
 
 CourseResult createCourseResult(Course *course, double marks)
 {
-CourseResult result; result.course = course; result.marks = marks; return result;
+CourseResult result;
+ result.course = course; 
+ result.marks = marks;
+  return result;
 }
 
 void viewCourseResult(CourseResult result)
