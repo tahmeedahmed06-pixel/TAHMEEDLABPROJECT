@@ -14,6 +14,7 @@ strcpy(course.code, code);
  }
 void viewCourse(Course course)
  {
+    printf("Code: %s\n", course.code);
  printf("Name: %s\n", course.name);
 printf("Credit: %.1f\n", course.credit);
  }
