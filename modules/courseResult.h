@@ -5,10 +5,11 @@
 
 typedef struct CourseResult
 {
-Course *course; double marks;
+Course *course;
+ double marks;
 } CourseResult;
 
 CourseResult createCourseResult(Course *course, double marks); 
-oid viewCourseResult(CourseResult result);
+void viewCourseResult(CourseResult result);
 
 #endif
