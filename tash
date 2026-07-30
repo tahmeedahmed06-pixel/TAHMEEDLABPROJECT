@@ -1,0 +1,21 @@
+[33mc4126ff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature003[m[33m, [m[1;31morigin/feature003[m[33m)[m Showed CGPA in main
+[33m3fd9b9b[m Added GPA tests
+[33m160dded[m Implemented GPA module
+[33me9c8c1a[m Declared GPA module
+[33m47703ee[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m Merge pull request #2 from tahmeedahmed06-pixel/feature002
+[33m4fdf70d[m[33m ([m[1;31morigin/feature002[m[33m, [m[1;32mfeature002[m[33m)[m Connected course results to main
+[33maac076b[m Added course result tests
+[33m6ad0fe2[m Implemented course result module
+[33m89c7979[m Declared course result module
+[33m640da6b[m Declared course result module
+[33m209e3c0[m Implemented course result module
+[33m9e13229[m Declared course result module
+[33m2572a01[m Merge pull request #1 from tahmeedahmed06-pixel/feature001
+[33meceaff8[m[33m ([m[1;31morigin/feature001[m[33m, [m[1;32mfeature001[m[33m)[m Fixed missing course code output
+[33m1753005[m Added some courses
+[33me54913a[m Added tests for the basic logic of course module
+[33m1a82166[m Implemented basic logic for course module
+[33m8dc1df5[m Added course module structure
+[33m501ee0d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Setup project
+[33mddc01a3[m Initial Setup
+[33mba06bab[m Initial commit
